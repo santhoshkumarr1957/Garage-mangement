@@ -11,7 +11,7 @@ function App() {
   return (
         <div className="min-h-screen flex items-center justify-center bg-gray-100 ">
             <div className="w-full max-w-md bg-white p-8 border-gray-200">
-                <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">Garage Management</h2>
+                <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">Garage Management Login</h2>
                 <form className="space-y-4">
                     <div>
                         <label className="block text-sm font-medium text-gray-700 mb-1">Email</label>
